@@ -10,5 +10,5 @@ Detail description
 
 * [Windows](https://github.com/MaxJ-Bastion/PortfolioGameDev1/blob/main/src/SpaceGame/windows-amd64.zip)
 * [MacOS](https://github.com/MaxJ-Bastion/PortfolioGameDev1/blob/main/src/SpaceGame/macos-aarch64.zip)
-* [MacOS (intel)]((https://github.com/MaxJ-Bastion/PortfolioGameDev1/blob/main/src/SpaceGame/macos-x86_64.zip))
+* [MacOS (intel)](https://github.com/MaxJ-Bastion/PortfolioGameDev1/blob/main/src/SpaceGame/macos-x86_64.zip)
 * [SourceCode](https://github.com/MaxJ-Bastion/PortfolioGameDev1/tree/main/src/SpaceGame)
