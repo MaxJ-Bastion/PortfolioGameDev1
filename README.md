@@ -2,7 +2,7 @@
 
 ## Projects for Term 1
 
-### SpaceGame
+### NACA Ultamite Space Adventure for Obsesive Cookie-Philes
 
 Detail description
 
